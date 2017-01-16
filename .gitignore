@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+img
+bower_components
+libs
+css-anims
+conway-life-game
